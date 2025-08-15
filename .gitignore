@@ -1,0 +1,18 @@
+# Java/Gradle/Maven ignores
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.mvn/
+.gradle/
+build/
+out/
+**/logs/
+*.log
+.DS_Store
