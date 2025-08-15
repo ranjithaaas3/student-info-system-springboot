@@ -1,2 +1,3 @@
-# student-info-system-springboot
-Student Information Management System built with Spring Boot + MySQL.
+- [**Mini CRM (ASP.NET Core + EF Core + SQL Server)**](https://github.com/ranjithaaas3/mini-crm-dotnet)
+- [**Student Information Management (Spring Boot + MySQL)**](https://github.com/ranjithaaas3/student-info-system-springboot)
+- [**Quiz App (Java Swing)**](https://github.com/ranjithaaas3/quiz-app-java-swing)
